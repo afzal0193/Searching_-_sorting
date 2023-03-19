@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // -- >> https://leetcode.com/problems/binary-search/
     int search(vector<int>& nums, int target) {
 
         int left = 0;
